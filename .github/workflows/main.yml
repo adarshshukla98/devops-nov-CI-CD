@@ -3,7 +3,7 @@ name: simple CI python Application
 on:
  push:
 
- jobs:
+jobs:
    dev:
      runs-on: ubuntu-latest
   
